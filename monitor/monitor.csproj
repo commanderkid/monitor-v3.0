@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CheckerString.cs" />
+    <Compile Include="KillingProcess.cs" />
+    <Compile Include="LogFileCreator.cs" />
+    <Compile Include="Loop.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TimerStarters.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
